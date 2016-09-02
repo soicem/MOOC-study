@@ -1,2 +1,2 @@
-# coursera-Algorithms-1
+# MOOC study
 1. Coursera Algorithms part1
