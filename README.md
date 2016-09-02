@@ -1,2 +1,2 @@
 # coursera-Algorithms-1
-Algorithms Study
+1. Coursera Algorithms part1
