@@ -1,2 +1,12 @@
+1. "Why we study Algorithm and Data structures"
+
 "I will, in fact, claim that the diffence between a bad programmer and a good one is whether he considers his code or his datastrucures more important.
 Bad programmers worry about the code.  Good programmer worry about data structures and their relationships." - Linus Torvalds
+
+2. Steps to developing a usable algorithm
+-Model the problem
+-Find an algorithm to solve it
+-Fast enough? Fits in memory?
+-If not, figure out why.
+-Find a way to address the problem
+-Iterate until satisfied
