@@ -1,3 +1,4 @@
+-participation : 3명(김기한, 김남규, 김선용)
 -info
 
 -study 요약
