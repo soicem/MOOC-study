@@ -6,5 +6,6 @@
 
 -study
 
-1. generic check
+1. generic 개념
 2. Stack and Queue problems check
+
