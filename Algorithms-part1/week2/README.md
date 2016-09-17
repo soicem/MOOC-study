@@ -1,3 +1,4 @@
+-participation : 2명(김남규, 김선용)
 -info
 
 1. generic : http://blog.naver.com/knq1130/220590980786
