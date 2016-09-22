@@ -10,4 +10,7 @@
 
 1. generic 개념
 2. Stack and Queue problems check
+3. https://ko.wikipedia.org/wiki/%EC%85%B8_%EC%A0%95%EB%A0%AC : shell short (3x+1)
+3. https://en.wikipedia.org/wiki/Time_complexity : Time_complexity
+
 
