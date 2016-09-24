@@ -1,4 +1,4 @@
--participation : 2명(김남규, 김선용)
+-participation
 
 -info
 
