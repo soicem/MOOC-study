@@ -1,43 +1,55 @@
- 무료이면서 같이 공부하면 좋을거 같은 mooc 강의 리스트입니다.  계속 무크 강의가 업데이트되니 좋은 강의 있다면 추천 부탁드립니다.
+Computer Science Carriculum with MOOCs
 
-1. cousera
+1. basic knowledge
+컴퓨터과학이 여는 세계 : https://www.youtube.com/playlist?list=PL0Nf1KJu6Ui7yoc9RQ2TiiYL9Z0MKoggH
 
--language
+2. mathematic
+theory of computation : https://www.youtube.com/playlist?list=PLslgisHe5tBM8UTCt1f66oMkpmjCblzkt
+theory of computation & automata theory : https://www.youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev
 
+컴퓨터 공학을 위한 수학 : https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/
+Essence of linear algebra : https://m.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+Essence of calculus : https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&app=desktop
+이산수학 : https://www.coursera.org/learn/discrete-mathematics
+이산수학 및 확률이론 : https://www.youtube.com/watch?v=2gfXZSA1oMg&index=2&list=PL-XXv-cvA_iDze6fOp3qofgyjJVUioedA
+확률, 선형대수 : https://www.khanacademy.org/welcome
+probability : https://www.youtube.com/watch?v=Wmz7l6LQvto&list=PLvifRcqOOwF9cfLMTE-42fiBsWvBsOEkS
+probabilistic Systems Analysis and Applied probability : https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures/
+statistic inference : https://www.coursera.org/learn/statistical-inference
+
+
+3. programming
+
+병렬 프로그래밍 : https://www.coursera.org/learn/parprog1
+principles of programming : http://kwangkeunyi.snu.ac.kr/#teaching
 https://www.coursera.org/learn/progfun1 : Functional Programming Principles in Scala
 https://www.coursera.org/learn/progfun2 : Functional Programming Design in Scala
 https://www.coursera.org/learn/parprog1 : Parallel Programming in Scala
 
--machine learning
+4. data structure / algorithm
 
-https://www.coursera.org/learn/machine-learning : andrew ng
-http://www.moreagile.net/2015/05/how-to-start-machine-learning-study.html : 프로그래머를 위한 머신러닝
+고급 데이터 구조 : https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/lecture-videos/
+영리한 프로그래밍을 위한 알고리즘 강좌 : https://www.inflearn.com/course/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B0%95%EC%A2%8C/
+효율적 알고리즘 및 알고리즘 난제 : http://www.youtube.com/playlist?list=PL-XXv-cvA_iBapEvcNwRuTJVt6BPpcMaJ
 
 
-2. cybrary
+5. network
+인터넷 기술 및 응용 : https://www.youtube.com/watch?v=Wmz7l6LQvto&list=PLvifRcqOOwF9cfLMTE-42fiBsWvBsOEkS
 
--basic
+6. system / os / compiler
+//컴퓨터 구조 : https://www.youtube.com/playlist?list=PL5PHm2jkkXmgDN1PLwOY_tGtUlynnyV6D
+컴퓨터 구조 : https://www.coursera.org/learn/comparch (프린스턴)
 
-https://www.cybrary.it/course/comptia-security-plus/ : CompTIA Security
 
--intermediate
+7. computer graphics
+컴퓨터 그래픽스 : http://inst.eecs.berkeley.edu/~cs184/fa12/onlinelectures1.html
+디지털 이미지 프로세싱 : https://www.youtube.com/playlist?list=PL3ZrjaBngMS15UhKHUnNqW5wLBA4vlQeB
 
-https://www.cybrary.it/course/computer-hacking-forensics-analyst/ : computer-hacking-forensics-analyst
-https://www.cybrary.it/course/ethical-hacking/ : ethical-hacking
-https://www.cybrary.it/course/secure-coding/ : secure-coding
-https://www.cybrary.it/course/web-application-pen-testing/ : web-application-pen-testing
+8. software engineering
+The Battlecode Programming Competition : https://www.youtube.com/playlist?list=PLUl4u3cNGP61vHg_yuYXydlzBs6d0KSTL
 
--advanced
+9. computer security
+computer systems security : https://www.youtube.com/playlist?list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh
 
-https://www.cybrary.it/course/advanced-penetration-testing/ : advanced-penetration-testing
-https://www.cybrary.it/course/malware-analysis/ : intro malware analysis
-https://www.cybrary.it/course/metasploit/ : metasploit
-https://www.cybrary.it/course/post-exploitation-hacking/ : post-exploitation-hacking
-https://www.cybrary.it/course/python/ : python
-https://www.cybrary.it/course/social-engineering/ : social engineering(like google hacking)
-
-3. etc
-
--
-http://hunkim.github.io/ml/ : machine learning 강의(김성훈 교수님)
-http://ropas.snu.ac.kr/~kwang/4190.310/mooc/ : 프로그래밍 언어(이광근 교수님)
+10. machine learning
+머신러닝 : https://www.coursera.org/learn/machine-learning
